@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+google-api-python-client>=2.100.0
+fpdf
+wikipedia
+langchain-google-genai
+nest_asyncio
+beautifulsoup4
+chromadb
+-U langchain-community tavily-python
