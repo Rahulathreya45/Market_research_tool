@@ -53,6 +53,10 @@ To run this project, you will need to add the following environment variables to
 
 - Improvements in Report formatting
 
+## Architecture
+
+![Screenshot 3](screenshots/Screenshot_3.png)
+
 ## Screenshots
 
 ![Screenshot 1](screenshots/Screenshot_1.png)
