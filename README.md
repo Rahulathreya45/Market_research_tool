@@ -1,6 +1,6 @@
 # Market Researcher
 
-Market Researcher is a tool which searches the internet and generates comprehensive report in PDF format.
+Market Researcher is a comprehensive market research tool that leverages the power of AI to automatically generate insightful reports in PDF format.
 
 ## Deployment Link
 
@@ -19,10 +19,9 @@ Market Researcher is a tool which searches the internet and generates comprehens
 
 ## Features
 
-- Added wikipedia loader
-- Parallel web scraping for faster results
-- output as a PDF file in well structured manner
-- Displays Original Sources
+- **Automated Research:** Enter the company name and Market Researcher scours the web using advanced search technology to gather relevant information.
+- **Fast and Efficient:** Parallel web scraping ensures rapid results, while a well-structured PDF report streamlines your research process.
+- **Transparent Sources:** Access and review the original sources used in your report for complete confidence in the data.
 
 ## Run Locally
 
